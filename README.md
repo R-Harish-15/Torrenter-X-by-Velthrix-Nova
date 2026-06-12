@@ -3,7 +3,10 @@
 A modern, fast, and reliable desktop torrent downloader developed with Python.
 
 ---
-
+<p align="center">
+  <img src="torrenter_x_banner.png">
+</p>
+  
 ## Features
 
 - Download `.torrent` files
@@ -39,6 +42,8 @@ Velthrix Nova
 
 Torrenter-X is intended for downloading and sharing legal content only. Users are responsible for complying with applicable laws and regulations.
 
-© 2026 Velthrix Nova Development. All Rights Reserved.
+<p align="center">
+  <img src="Logo.png">
+</p>
 
-
+© 2026 Velthrix Nova . All Rights Reserved.
