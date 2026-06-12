@@ -22,10 +22,11 @@ A modern, fast, and reliable desktop torrent downloader developed with Python.
 
 ## Installation
 
-```bash
-pip install -r requirements.txt
-python torrent_gui.py
-```
+### Windows :
+1. Download the Zip file
+2. Extract the files
+3. Double Click and Run the " Torrenter-X.exe " (allow for internet access at first time)
+
 
 ## Developer :
 Harish R
