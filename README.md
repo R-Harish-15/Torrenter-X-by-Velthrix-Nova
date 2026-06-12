@@ -4,7 +4,8 @@ A modern, fast, and reliable desktop torrent downloader developed with Python.
 
 ---
 <p align="center">
-  <img src="torrenter_x_banner.png">
+  <img src="torrenter_x_banner.png"><br><br><br>
+ <br> <img src="Screenshot 2026-06-12 181241.png">
 </p>
   
 ## Features
