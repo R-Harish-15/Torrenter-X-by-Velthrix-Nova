@@ -3,7 +3,10 @@
 A modern, fast, and reliable desktop torrent downloader developed with Python.
 
 ---
-
+<p align="center">
+  <img src="torrenter_x_banner.png">
+</p>
+  
 ## Features
 
 - Download `.torrent` files
@@ -19,10 +22,11 @@ A modern, fast, and reliable desktop torrent downloader developed with Python.
 
 ## Installation
 
-```bash
-pip install -r requirements.txt
-python torrent_gui.py
-```
+### Windows :
+1. Download the Zip file
+2. Extract the files
+3. Double Click and Run the " Torrenter-X.exe " (allow for internet access at first time)
+
 
 ## Developer :
 Harish R
@@ -39,6 +43,8 @@ Velthrix Nova
 
 Torrenter-X is intended for downloading and sharing legal content only. Users are responsible for complying with applicable laws and regulations.
 
-© 2026 Velthrix Nova Development. All Rights Reserved.
+<p align="center">
+  <img src="Logo.png">
+</p>
 
-
+© 2026 Velthrix Nova . All Rights Reserved.
