@@ -48,4 +48,4 @@ Torrenter-X is intended for downloading and sharing legal content only. Users ar
   <img src="Logo.png">
 </p>
 
-© 2026 Velthrix Nova . All Rights Reserved.
+© 2026 Velthrix Nova | Harish R . All Rights Reserved.
