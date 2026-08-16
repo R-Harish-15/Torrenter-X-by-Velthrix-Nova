@@ -29,18 +29,15 @@ A modern, fast, and reliable desktop torrent downloader developed with Python.
 3. Double Click and Run the " Torrenter-X.exe " (allow for internet access at first time)
 
 
-## Developer :
-Harish R
+# Developer : Harish R
 
 GitHub: https://github.com/R-Harish-15
 
 LinkedIn: https://www.linkedin.com/in/r-harish15/
 
-## Organization : 
+# Organization : Velthrix Nova
 
-Velthrix Nova
-
-# Disclaimer :
+## Disclaimer :
 
 Torrenter-X is intended for downloading and sharing legal content only. Users are responsible for complying with applicable laws and regulations.
 
